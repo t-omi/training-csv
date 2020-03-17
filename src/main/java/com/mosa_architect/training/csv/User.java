@@ -1,4 +1,4 @@
-package com.csv.training;
+package com.mosa_architect.training.csv;
 
 import com.opencsv.bean.CsvBindByName;
 
